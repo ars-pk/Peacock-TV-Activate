@@ -9,12 +9,12 @@ How to Activate Peacock TV Account?
 Peacock TV has revolutionized the streaming landscape with its diverse content library featuring everything from classic NBC shows to exclusive original programming and live sports coverage. To fully enjoy this entertainment platform, you need to understand how to properly activate your Peacock TV account across different devices.
 
 
-
-.. image:: click-activate.png
+.. image:: click-activate-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://tv.activation-key.net/
+
 
 This comprehensive guide will walk you through every step of the peacock tv activate process, ensuring you can access your favorite content seamlessly.
 
